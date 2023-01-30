@@ -1,0 +1,125 @@
+!www.flashscore.com##.bracket:has([title="Czech Republic"]):style(border:orange 4px solid !important)
+!www.flashscore.com##.container__detailInner > div.section:has(.br__broadcasts)
+!www.flashscore.com##.event__participant:has-text(Shanxi Zhongyu):style(background-color:orange)
+!www.flashscore.com##:matches-path(/basketball) div.event__header:has([title="Argentina"])~.event__match--twoLine
+!www.flashscore.com##:matches-path(/basketball/) .event__match:has-text(Guangdong):style(border:red 3px solid !important)
+!www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(CHALLENGER))~.event__match--twoLine
+!www.flashscore.com##div.draw__bracket--odd.draw__bracket:nth-of-type(2n+1):style(border-top:2px solid red;border-left:2px dashed red;border-right:2px dashed red)
+!www.flashscore.com##div.draw__bracket:nth-of-type(2n+2):style(border-bottom:2px solid red;border-left:2px dashed red;border-right:2px dashed red)
+!www.flashscore.com##div.draw__round:has(.draw__label:has-text(Quarter-finals)):style(background-color:tan)
+!www.flashscore.com##div.event--section:nth-of-type(2):style(border-bottom:red 4px solid;border-left:red 4px solid;border-right:red 4px solid)
+!www.flashscore.com##div.event__header:has([title="Argentina"])
+!www.flashscore.com##div.event__header:has([title="NCAA"]):style(background-color:blue !important)
+!www.flashscore.com##div.lf__participant:has([href="/player/weems-sonny/CjNtm0YH/"]):style(background-color:orange !important)
+!www.flashscore.com##div.lf__participant:has([href="/player/zhou-peng/U5G8JVgk/"]):style(background-color:orange)
+!www.flashscore.com##div.section.smv__skeleton
+!www.flashscore.com##div.section:has(.br__broadcasts)
+!www.flashscore.com##div.section:has(.br__broadcasts)
+!www.flashscore.com##div.section:has(.oddsWrapper)
+
+www.flashscore.com###box-over-content-b
+www.flashscore.com###box-over-content-standings
+www.flashscore.com###lsid-delete-account
+www.flashscore.com###oddsFormatSettings
+www.flashscore.com###onetrust-consent-sdk
+www.flashscore.com##.adstextpad.adsenvelope
+www.flashscore.com##.banner
+www.flashscore.com##.bettingStrip
+www.flashscore.com##.boxOverContent--detailModern
+www.flashscore.com##.boxOverContent__bannerLink
+www.flashscore.com##.bracket:has([title="China"]):style(border:red 4px solid !important)
+www.flashscore.com##.bracket:has-text(Alcaraz C.):style(border:orange 4px solid !important)
+www.flashscore.com##.bracket:has-text(Chicago Sky W):style(border:blue 3px solid !important)
+www.flashscore.com##.bracket:has-text(Djokovic N.):style(border:purple 4px solid !important)
+www.flashscore.com##.bracket:has-text(Federer R.):style(border:green 4px solid !important)
+www.flashscore.com##.bracket:has-text(Golden State Warriors):style(border:blue 3px solid !important)
+www.flashscore.com##.bracket:has-text(Guangdong):style(border:red 3px solid !important)
+www.flashscore.com##.bracket:has-text(Krejcikova B./Siniakova K.):style(border:orange 3px solid !important)
+www.flashscore.com##.bracket:has-text(Lyon W):style(border:purple 3px solid !important)
+www.flashscore.com##.bracket:has-text(Manchester Utd):style(border:red 3px solid !important)
+www.flashscore.com##.bracket:has-text(Medvedev D.):style(border:blue 4px solid !important)
+www.flashscore.com##.bracket:has-text(Nadal R.):style(border:DarkOrange  4px solid !important)
+www.flashscore.com##.bracket:has-text(New York Liberty W):style(border:green 3px solid !important)
+www.flashscore.com##.bracket:has-text(Real Madrid):style(border:purple 3px solid !important)
+www.flashscore.com##.bracket:has-text(Swiatek I.):style(border:brown 4px solid !important)
+www.flashscore.com##.bracket:has-text(Zhang S.):style(border:red 4px solid !important)
+www.flashscore.com##.bracket:has-text(Zheng S. W./Huang Y. Q.):style(border:red 3px solid !important)
+www.flashscore.com##.cyxy-trs-source.cyxy-target-popup
+www.flashscore.com##.detailLeaderboard
+www.flashscore.com##.draw__round--last.draw__round:style(background-color:rgba(255,0,0,0.4))
+www.flashscore.com##.event__match:has-text(China):style(border:3px red solid !important)
+www.flashscore.com##.event__match:has-text(Guangzhou FC):style(background-color:orange)
+www.flashscore.com##.event__match:has-text(North Carolina):style(border:blue 3px solid !important)
+www.flashscore.com##.event__participant:has-text(Chelsea):style(border:2px solid blue)
+www.flashscore.com##.event__participant:has-text(Chicago Sky W):style(background-color:#408ede)
+www.flashscore.com##.event__participant:has-text(Guangzhou FC):style(backgroud-colot:orange)
+www.flashscore.com##.event__participant:has-text(Las Vegas Aces W):style(background-color:#c11f31)
+www.flashscore.com##.event__participant:has-text(New York Liberty W):style(background-color:#86cebc)
+www.flashscore.com##.event__participant:has-text(Shanxi Zhongyu):style(background-color:orange)
+www.flashscore.com##.footerContainer
+www.flashscore.com##.gamble
+www.flashscore.com##.lf__player:has([href="/player/ronaldo-cristiano/WGOY4FSt/"]):style(background-color:red;border:solid 8px red)
+www.flashscore.com##.myfsSetupGuide__emptyGames
+www.flashscore.com##.oddsPlacement
+www.flashscore.com##.oddsPlacement--top.oddsPlacement
+www.flashscore.com##.oddsWrapper
+www.flashscore.com##.privacySettings
+www.flashscore.com##.section--nmb.section
+www.flashscore.com##.section__title--center.lf__header.section__title:has-text(Starting):style(background-color:red !important)
+www.flashscore.com##.section__title--center.lf__header.section__title:has-text(Substitutes):style(background-color:orange !important)
+www.flashscore.com##.seoAdWrapper
+www.flashscore.com##.smv__incident:has([href="/player/ronaldo-cristiano/WGOY4FSt/"]):style(background-color:rgba(255,0,0,0.8))
+www.flashscore.com##.tooltip
+www.flashscore.com##.ui-table__row:has([href="/team/lyon/fHqEMt1U/"]):style(border:purple 4px solid !important)
+www.flashscore.com##.ui-table__row:has([title="Golden State Warriors"]):style(border:blue 2px solid !important)
+www.flashscore.com##.wrapperBottom
+www.flashscore.com##:matches-path(/^/$/) div.event__header:has(.event__title--type:has-text(ARGENTINA))
+www.flashscore.com##:matches-path(/basketball) .event__match--twoLine:has-text(Lyon W):style(background-color:purple;border:2px solid purple !important)
+www.flashscore.com##:matches-path(/basketball) div.event__header:has([title="Argentina"])
+www.flashscore.com##:matches-path(/basketball/) .event__match:has-text(Shanxi Zhongyu):style(border:orange 3px solid !important)
+www.flashscore.com##:matches-path(/basketball/) .event__match:has-text(Shenzhen):style(border:orange 3px solid !important)
+www.flashscore.com##:matches-path(/basketball/) .event__match:has-text(South East Melbourne):style(border:green 3px solid !important)
+www.flashscore.com##:matches-path(/tennis) .event__match:has([title="China"]):style(border:2px solid red !important)
+www.flashscore.com##:matches-path(/tennis) .event__match:has-text(Krejcikova B./Siniakova K.):style(border:2px solid orange !important)
+www.flashscore.com##:matches-path(/tennis) .event__match:has-text(Zhang S.):style(border:2px solid red !important)
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(CHALLENGER))
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(CHALLENGER)):has(.event__expander--close)
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(CHALLENGER))~.event__match--twoLine
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(ITF))
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(ITF))+.event__match--twoLine
+www.flashscore.com##:matches-path(/tennis) div.event__header:has(.event__title--type:has-text(ITF)):has(.event__expander--close)
+www.flashscore.com##:not(:matches-path(/favorites)) .event__match:has-text(Manchester Utd):style(border:red 3px solid !important)
+www.flashscore.com##[href="#/odds-comparison"]
+www.flashscore.com##a.menuMinority__item[href="/badminton/"]:style(background-color:orange;border:2px orange solid)
+www.flashscore.com##a.menuMinority__item[href="/cycling/"]:style(background-color:orange;border:2px orange solid)
+www.flashscore.com##a.menuMinority__item[href="/mma/"]:style(background-color:orange;border:2px orange solid)
+www.flashscore.com##a.menuMinority__item[href="/table-tennis/"]:style(background-color:orange;border:2px orange solid)
+www.flashscore.com##a.menuMinority__item[href="/volleyball/"]:style(background-color:orange;border:2px orange solid)
+www.flashscore.com##div.draw__round:has(.draw__label:has-text(Semi-finals)):style(background-color:rgba(255,165,0,0.5))
+www.flashscore.com##div.event--section:nth-of-type(2):style(border:red 4px solid)
+www.flashscore.com##div.event__header:has([title="Champions League"]):style(background-color:red !important)
+www.flashscore.com##div.filters__tab:nth-of-type(3)
+www.flashscore.com##div.leftMenu__item:has([href$="/australian-open/"]):style(border:3px blue solid)
+www.flashscore.com##div.leftMenu__item:has([href$="/french-open/"]):style(border:3px orange solid)
+www.flashscore.com##div.leftMenu__item:has([href$="/us-open/"]):style(border:3px blue solid)
+www.flashscore.com##div.leftMenu__item:has([href$="/wimbledon/"]):style(border:3px green solid)
+www.flashscore.com##div.leftSkel__banner
+www.flashscore.com##div.lf__participant:has([href="/player/ronaldo-cristiano/WGOY4FSt/"]):style(background-color:red)
+www.flashscore.com##div.lf__participant:has([href="/player/weems-sonny/CjNtm0YH/"]):style(background-color:orange)
+www.flashscore.com##div.lf__participant:has([href="/player/zhou-peng/U5G8JVgk/"]):style(background-color:orange)
+www.flashscore.com##div.playerStatsTable__row.ui-table__row:has([href="/player/weems-sonny/CjNtm0YH/"]):style(background-color:orange !important;border:2px solid orange !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/allemand-julie/bVBxf14N/"]):style(background-color:orange !important;border:2px solid orange !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/han-xu/K2ezuaTS/"]):style(background-color:red !important;border:2px solid red !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/johannes-marine/djuyQnZB/"]):style(background-color:orange !important;border:2px solid orange !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/li-yueru/IwyBYd6d/"]):style(background-color:red !important;border:2px solid red !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/parker-candace/zwYcgHO0/"]):style(background-color:DeepSkyBlue  !important;border:2px solid DeepSkyBlue  !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/qi-zhou/jgtxZOmG/"]):style(background-color:red !important;border:2px solid red !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/williams-gabby/UmRvaQrn/"]):style(background-color:orange !important;border:2px solid orange !important)
+www.flashscore.com##div.playerStatsTable__row:has([href="/player/zhou-peng/U5G8JVgk/"]):style(background-color:orange !important;border:2px solid orange !important)
+www.flashscore.com##div.section.h2h__section > .section__title:has-text(Head-to-head matches):style(background-color:orange !important)
+www.flashscore.com##div.section:has(.oddsWrapper)
+www.flashscore.com##li.dropdown__listItem:has-text(Basketball):style(border:2px red solid)
+www.flashscore.com##li.dropdown__listItem:has-text(Football):style(border:2px red solid)
+www.flashscore.com##li.dropdown__listItem:has-text(Tennis):style(border:2px red solid)
+www.flashscore.com##text:nth-of-type(2)
+www.flashscore.com##undefined.prematchOddsSkeleton__skeleton
