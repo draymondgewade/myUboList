@@ -1,3 +1,8 @@
+  # Title: SportsLive
+  # Description: Filter for gsportlive
+  # Licence: MIT License
+  # Source: https://github.com/draymondgewade/myUboList/blob/main/sportslive.txt
+
 !www.flashscore.com##.bracket:has([title="Czech Republic"]):style(border:orange 4px solid !important)
 !www.flashscore.com##.container__detailInner > div.section:has(.br__broadcasts)
 !www.flashscore.com##.event__participant:has-text(Shanxi Zhongyu):style(background-color:orange)
